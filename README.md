@@ -54,10 +54,11 @@ Criar branchs separadas para cada feature que estiver desenvolvendo, com o nome 
 Utilizar o Pull request para a development para que o outro revise o código
 - Pull Request através do github
 
-main
-- development
-	- feature/nome-da-feature
-	- bugfix/nome-do-bug
+Organização das Branchs:
+- main
+	- development
+		- feature/nome-da-feature
+		- bugfix/nome-do-bug
 
 ## Projeto
 
