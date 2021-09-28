@@ -45,3 +45,8 @@ roll = [1..+DADO 0..+variável 0..+modificador NORMAL|VANTAGEM|DESVANTAGEM]
 
 
 Linguagens Formais e Automatos
+
+
+@authors:
+Caetano Alcantara borges
+Guilherme Nunes Costa
