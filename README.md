@@ -63,14 +63,14 @@ Organização das Branchs:
 ## Projeto
 
 Utilizar a parte de [projetos](https://github.com/gnc-fun/dnd-sheet-core/projects) do github para orientar o desenvolvimento.
-	- para cada branch, um card correspondente
-	- Cada feature tem um 'dono', assim cada um mexe em uma feature separada
+- para cada branch, um card correspondente
+- Cada feature tem um 'dono', assim cada um mexe em uma feature separada
 
 
-
+---
 Linguagens Formais e Automatos
 
 
 @authors:
-Caetano Alcantara borges
-Guilherme Nunes Costa
+- Caetano Alcantara borges
+- Guilherme Nunes Costa
