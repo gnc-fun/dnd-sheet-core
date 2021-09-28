@@ -51,7 +51,7 @@ roll = [1..+DADO 0..+variável 0..+modificador NORMAL|VANTAGEM|DESVANTAGEM]
 Criar branchs separadas para cada feature que estiver desenvolvendo, com o nome "feature/nome-da-feature", que vão partir da branch development
 	- ex.: feature/sheet-registration
 
-Utilizar o Pull request para a development para que o outro revise o código
+Utilizar o Pull request para a development para manter um histórico de atualizações do código
 - Pull Request através do github
 
 Organização das Branchs:
