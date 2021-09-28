@@ -52,20 +52,16 @@ Criar branchs separadas para cada feature que estiver desenvolvendo, com o nome 
 	- ex.: feature/sheet-registration
 
 Utilizar o Pull request para a development para que o outro revise o código
-	- Pull Request através do github
+- Pull Request através do github
 
 main
-	- development
-		- feature/nome-da-feature
-		- bugfix/nome-do-bug
-
-main ---|
-		development ---|						   ---
-					   feature/nome-da-feature ---|
+- development
+	- feature/nome-da-feature
+	- bugfix/nome-do-bug
 
 ## Projeto
 
-Utilizar a parte de [projetos]{https://github.com/gnc-fun/dnd-sheet-core/projects} do github para orientar o desenvolvimento.
+Utilizar a parte de [projetos](https://github.com/gnc-fun/dnd-sheet-core/projects) do github para orientar o desenvolvimento.
 	- para cada branch, um card correspondente
 	- Cada feature tem um 'dono', assim cada um mexe em uma feature separada
 
